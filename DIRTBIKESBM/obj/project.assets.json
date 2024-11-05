@@ -4494,11 +4494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DIRTBIKESBM\\DIRTBIKESBM\\DIRTBIKESBM.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\MotorBikes\\MotorBike\\DIRTBIKESBM\\DIRTBIKESBM.csproj",
       "projectName": "DIRTBIKESBM",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DIRTBIKESBM\\DIRTBIKESBM\\DIRTBIKESBM.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\MotorBikes\\MotorBike\\DIRTBIKESBM\\DIRTBIKESBM.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DIRTBIKESBM\\DIRTBIKESBM\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\MotorBikes\\MotorBike\\DIRTBIKESBM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

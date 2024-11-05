@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DIRTBIKESBM.Controllers
 {
-    [Microsoft.AspNetCore.Mvc.Route("api/[controller]")]
+    [Microsoft.AspNetCore.Components.Route("api/[controller]")]
     [ApiController]
     public class MotorController : Controller
     {

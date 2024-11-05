@@ -141,3 +141,14 @@ C:\Users\User\source\repos\DIRTBIKESBM\DIRTBIKESBM\bin\Debug\net8.0\runtimes\win
 C:\Users\User\source\repos\DIRTBIKESBM\DIRTBIKESBM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\source\repos\DIRTBIKESBM\DIRTBIKESBM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\User\source\repos\DIRTBIKESBM\DIRTBIKESBM\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.AssemblyInfo.cs
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.sourcelink.json
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.dll
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\refint\DIRTBIKESBM.dll
+C:\Users\User\Downloads\MotorBikes\MotorBike\DIRTBIKESBM\obj\Debug\net8.0\DIRTBIKESBM.pdb

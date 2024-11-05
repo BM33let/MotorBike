@@ -9,6 +9,8 @@ namespace DIRTBIKESBM.Helper
         public MappingProfiles()
         {
             CreateMap<Motor, MotorDto>();
+            CreateMap<Category, CategoryDto>();
+            
         }
     }
 }

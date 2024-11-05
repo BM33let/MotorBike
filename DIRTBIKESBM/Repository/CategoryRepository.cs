@@ -23,12 +23,12 @@ namespace DIRTBIKESBM.Repository
 
         public Category GetCategory(int id)
         {
-            return _context.Categories.Where(e = c => e.Id == id).FirstOrDefault();
+            return _context.Categories.Where(e => e.Id == id).FirstOrDefault();
         }
 
         public ICollection<Motor> GetMotorByCategory(int categoryId)
         {
-            throw new NotImplementedException();
+            return _context.MotorCategories.Where(e => e.CategoryId == categoryId).Select(c => c.Motor); ToList();
         }
     }
 }

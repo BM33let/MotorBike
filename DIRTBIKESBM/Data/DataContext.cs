@@ -8,6 +8,7 @@ namespace DIRTBIKESBM.Data
     public class DataContext : DbContext
     {
         internal object Categories;
+        internal IEnumerable<object> MotorCategories;
 
         public DbSet<UserRegistrationDto> UserRegistrations { get; set; }
         public DataContext(DbContextOptions<DataContext> options) : base(options)
